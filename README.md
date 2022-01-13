@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devangShakya
-- 👀 I’m interested in Web Designing.
+- 👀 I’m interested in Web Designing, HTML, CSS.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me ...
